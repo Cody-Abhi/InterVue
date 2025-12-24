@@ -90,6 +90,12 @@ The core problem InterVue addresses is the lack of accessible, realistic intervi
 
 ---
 
-# 🔗 **Demo**
+## 🔗 **Demo**
 
 - 🌐 **Live Demo:** https://intervue-1.vercel.app/
+  
+---
+
+#  🏁 Conclusion
+
+InterVue aims to democratize interview preparation by leveraging AI to deliver realistic, adaptive, and insightful interview experiences. Feedback, suggestions, and collaborations are always welcome.
