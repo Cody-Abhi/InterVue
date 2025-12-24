@@ -82,7 +82,7 @@ The core problem InterVue addresses is the lack of accessible, realistic intervi
 
 ## 📬 **Contact**
 
-- **Name:** Abhinav Srivastav
+- **Name:** Abhinav Srivastava
   
 - **GitHub:** https://github.com/Cody-Abhi
   
